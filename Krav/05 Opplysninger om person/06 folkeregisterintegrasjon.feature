@@ -3,7 +3,7 @@
 Egenskap: Integrasjon mot folkeregisteret for å oppdatere personopplysninger for læresteder
 Som person som bruker Min kompetanse (søker, student eller resultateier) som er registert i folkeregisteret skal jeg slippe å oppdatere
   mine personopplysninger flere steder, slik at læresteder har korrekt person- og kontaktinformasjon om meg, tiltaler meg ved riktig navn og
-  kontakter meg på riktig adresse og kan behandle meg korrekt mht mine personopplysninger når det er aktuelt.
+  kontakter meg på riktig adresse og kan behandle meg korrekt med tanke på mine personopplysninger når det er aktuelt.
 
   Hjemmelsgrunnlag aktive studenter: GDPR art. 6 nr. 1 bokstav e) fordi behandlingen er nødvendig for å kunne utføre en oppgave i allmennhetens interesse eller
   utøve offentlig myndighet som behandlingsansvarlig er pålagt. I tillegg kan læresteder innhente og behandle personopplysninger i hht universitets- og høyskoleloven § 4-15.
